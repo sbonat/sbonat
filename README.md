@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbonat
 - 👀 I’m interested in ecology, wildlife management and conservation biology
-- 🌱 I’m currently finishing up statistical analysis for my PhD project
+- 🌱 I’m currently finishing my PhD project
 - 💞️ I’m looking to collaborate on camera trap stuff, general data management and biology stuff
 - 📫 How to reach me: email me at stefanie.bonat@sydney.edu.au 
 
